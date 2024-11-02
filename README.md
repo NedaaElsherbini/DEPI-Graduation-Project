@@ -1,4 +1,7 @@
 # FaceLock Attendance System
+
+[Watch the video](file:///C:/Users/dell/Downloads/WhatsApp%20Video%202024-10-23%20at%2010.45.22%20AM.mp4)
+
 ## Data Collection & Preparation
 
 In this phase, we collected images of attendees under varying lighting conditions and angles. The dataset was organized as follows:
