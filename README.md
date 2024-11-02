@@ -1,4 +1,5 @@
 # FaceLock Attendance System
+https://github.com/user-attachments/assets/0cb49a4b-2558-4d38-927e-5aafcd394ce2
 ## Data Collection & Preparation
 
 In this phase, we collected images of attendees under varying lighting conditions and angles. The dataset was organized as follows:
