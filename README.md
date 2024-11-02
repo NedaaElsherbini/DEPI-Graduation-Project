@@ -1,7 +1,4 @@
 # FaceLock Attendance System
-
-[Watch the video](file:///C:/Users/dell/Downloads/WhatsApp%20Video%202024-10-23%20at%2010.45.22%20AM.mp4)
-
 ## Data Collection & Preparation
 
 In this phase, we collected images of attendees under varying lighting conditions and angles. The dataset was organized as follows:
@@ -9,6 +6,7 @@ In this phase, we collected images of attendees under varying lighting condition
 - **Data Splitting**: The collected images were split into two folders:
   - **Train Images**: Contains images used for training the model.
   - **Test Images**: Contains images used for testing the model.
+### Note: We used a Dataset of people on the system, so we can't share it.
     
 ## Model Development
 
@@ -27,5 +25,9 @@ An advanced architecture for generating high-quality face embeddings.
 After training, we deployed the model on Hugging Face, allowing easy access and integration for various applications.
 
 This deployment enables the model to be hosted, shared, and utilized across different platforms seamlessly.
+
+## System
+
+[FaceLock Attendance System on Hugging Face](https://huggingface.co/spaces/Nada-Medhat/FaceLock_AttendanceSystem)
 
 
